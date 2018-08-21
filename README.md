@@ -1,6 +1,6 @@
 # Whais PHP Ext
 
-htttp://www.whais.net (to be available in the next days)
+htttp://whais.net 
 
 This project is a simple extension to facilitate users of PHP (version 7.2.6 and higher) interact with a Whais server. 
 
